@@ -13,7 +13,7 @@ This code is based on the paper "Occlusion-Aware Fragment-Based Tracking With Sp
 ------------
 Requirements
 ------------
-This code has been developed and tested with Windows 7, Matlab R2012b (64-bit). To compute the optical flow, users need to make sure that OpenCV 2.41 is installed. 
+This code has been developed and tested with Windows 7, Matlab R2012b (64-bit). To compute the optical flow, users need to make sure that OpenCV 2.4.10 is installed. 
 
 -----
 Usage
